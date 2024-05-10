@@ -1,5 +1,5 @@
 {
-    "name": "monsieurbiz/sylius-better-admin-plugin",
+    "name": "LeoMoshko/monsieurbiz-sylius-better-admin-plugin",
     "type": "sylius-plugin",
     "keywords": ["sylius", "sylius-plugin"],
     "description": "Manage your logos, colors and backgrounds with settings in Sylius Admin pannel",
